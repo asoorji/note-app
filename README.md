@@ -1,16 +1,12 @@
 # note_app
 
-A new Flutter project.
 
-## Getting Started
+##What it does
 
-This project is a starting point for a Flutter application.
+- It shows the concept and use of sqflite flutter package
+- Take note from user
+- Save it in a local database
+- The notes (data) persist through the entire state of the application
+- Users can add, edit and delete note
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
